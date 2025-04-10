@@ -7,7 +7,7 @@ Este repositório foi criado para armazenar e compartilhar os trabalhos realizad
 
 ## 📂 Estrutura do Repositório  
 🗂 **/scripts** → Códigos e análises computacionais   
-📊 **/dados** → Conjuntos de dados utilizados nas atividades  
+📊 **/data** → Conjuntos de dados utilizados nas atividades  
 📄 **/relatórios** → Relatórios e anotações das atividades  
 📝 **/documentação** → Guias, artigos e materiais de apoio  
 
